@@ -1,0 +1,21 @@
+->Clienti: 
+
+------------------------------------------------
+-> Numele Clientului:  alexandru
+-> Prenumele Clientului: robert-mihai
+-> CNP: 5674657583945
+-> Numarul de Telefon: 0752325058
+-> Sold Client Curent: 2000
+-> Varsta peste 18 ani: 1
+-> Email: armihai1664@gmail.com
+------------------------------------------------
+
+------------------------------------------------
+-> Numele Clientului:  ion
+-> Prenumele Clientului: popovici
+-> CNP: 6758654859634
+-> Numarul de Telefon: 0756721009
+-> Sold Client Curent: 1050
+-> Varsta peste 18 ani: 1
+-> Email: ion_popovici18@yahoo.com
+------------------------------------------------
